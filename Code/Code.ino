@@ -1,5 +1,5 @@
 //Prateek
-//wwww.prateeks.in
+//https://justdoelectronics.com
 //https://www.youtube.com/c/JustDoElectronics/videos
 
 #define ledA1 2
